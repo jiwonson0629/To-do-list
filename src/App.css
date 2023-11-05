@@ -1,0 +1,67 @@
+.layout{
+  max-width: 1200px;
+  margin: 0px auto 0px auto;
+ 
+}
+
+.titlebox{
+  height:100px;
+  background-color: bisque;
+  border-radius: 10px;
+  display : flex;
+  align-items : center;
+}
+
+.title{
+  font-size: medium;
+  border-radius: 5px;
+}
+.body{
+  font-size: medium;
+  border-radius: 5px;
+}
+
+.addbutton{
+  font-size: medium;
+  /* position: relative;
+  left: 500%; */
+justify-content:
+ 
+}
+
+.component-style{
+  height: 100px;
+  width: 150px;
+ 
+  border: 2px solid gray ;
+  border-radius: 10px;
+  font-size: large;
+  gap: 5px;
+ 
+}
+.text{
+  display : flex;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+.removebtn{
+  border: 2px solid red;
+  
+}
+.cenclebtn{
+  border: 2px solid green;
+  background-color:aliceblue;
+  
+}
+.button1{
+  position: relative;
+  left: 10px;
+  top: 20px;
+}
+.appstyle{
+  display : flex;
+  padding : 10px;
+  gap: 12px;
+}
