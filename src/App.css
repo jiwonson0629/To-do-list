@@ -3,6 +3,14 @@
   margin: 0px auto 0px auto;
  
 }
+h1{
+  border: 2px solid bisque;
+  border-radius: 10px;
+  margin: 0px;
+  height: 70px;
+  display : flex;
+  align-items : center;
+}
 
 .titlebox{
   height:100px;
@@ -25,7 +33,7 @@
   font-size: medium;
   /* position: relative;
   left: 500%; */
-justify-content:
+
  
 }
 
@@ -37,7 +45,6 @@ justify-content:
   border-radius: 10px;
   font-size: large;
   gap: 5px;
- 
 }
 .text{
   display : flex;
@@ -48,6 +55,7 @@ justify-content:
 
 .removebtn{
   border: 2px solid red;
+  margin-right: 10px;
   
 }
 .cenclebtn{
